@@ -9,7 +9,7 @@ License:	GPL v2
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	42653d680c961ed61d58850005366d07
-URL:		http://pear.horde.org/package/Horde_ActiveSync/
+URL:		https://github.com/horde/horde/tree/master/framework/ActiveSync/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR >= 1:1.7.0
