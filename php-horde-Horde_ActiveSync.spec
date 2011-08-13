@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde ActiveSync Server Library
 Name:		php-horde-Horde_ActiveSync
-Version:	1.1.1
+Version:	1.1.3
 Release:	1
 License:	GPL v2
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	2036addaee9e62e977569dfd570aa7bd
+# Source0-md5:	7eee434391ca3242f63b70a5daddd927
 URL:		https://github.com/horde/horde/tree/master/framework/ActiveSync/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
