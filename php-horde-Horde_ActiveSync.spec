@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_ActiveSync
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde ActiveSync Server Library
 Name:		php-horde-Horde_ActiveSync
 Version:	1.2.7
